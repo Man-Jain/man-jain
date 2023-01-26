@@ -5,14 +5,6 @@
 <br />
 <br />
 
-Hi, I am Manank Patni, I am a passionate and self-taught developer from India.
-
-- 🔭 I’m an active Gitcoiner [Man-Jain](https://gitcoin.co/man-jain)
-- 🌱 I'm a Blockchain and a Backend Developer
-- 🔭 I've been a Hypereldger Intern and Google Code-In Mentor
-- 🌱 I've also been a Speaker at 2 International Conferences (Hyperledger Global Forum and Open Source Summit Japan)
-
-
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
